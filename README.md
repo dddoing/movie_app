@@ -3,4 +3,6 @@
 
 # JSX >>
 
-# properties
+# prope-types
+
+# states
