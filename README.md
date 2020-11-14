@@ -3,6 +3,12 @@
 
 # JSX >>
 
-# prope-types
+# prop-types
 
-# states
+# render()
+
+# state
+
+# setState
+
+# axios
